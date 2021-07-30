@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MytASK</string>
+    <string name="title_home">Recent Task</string>
+    <string name="title_dashboard">Detail Task</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="insert_task">New Task</string>
+    <string name="data_saved">Task saved</string>
+    <string name="edit_task">Edit Task</string>
+</resources>
